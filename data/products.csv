@@ -1,0 +1,31 @@
+date,product,category,region,units,unit_price,revenue
+2026-01-10,Laptop,Electronics,South,5,65000.0,325000.0
+2026-01-15,Smartphone,Electronics,North,8,25000.0,200000.0
+2026-01-20,Keyboard,Accessories,East,15,1500.0,22500.0
+2026-02-05,Mouse,Accessories,West,20,800.0,16000.0
+2026-02-10,Monitor,Electronics,South,6,18000.0,108000.0
+2026-02-18,Headphones,Accessories,North,12,2500.0,30000.0
+2026-03-03,Laptop,Electronics,East,7,65000.0,455000.0
+2026-03-12,Smartphone,Electronics,West,10,25000.0,250000.0
+2026-03-20,Office Chair,Furniture,South,5,8500.0,42500.0
+2026-04-02,Desk,Furniture,North,4,12000.0,48000.0
+2026-04-10,Keyboard,Accessories,East,18,1500.0,27000.0
+2026-04-21,Monitor,Electronics,West,8,18000.0,144000.0
+2026-05-05,Headphones,Accessories,South,14,2500.0,35000.0
+2026-05-15,Laptop,Electronics,North,6,65000.0,390000.0
+2026-05-25,Office Chair,Furniture,East,7,8500.0,59500.0
+2026-06-04,Smartphone,Electronics,West,12,25000.0,300000.0
+2026-06-12,Mouse,Accessories,South,25,800.0,20000.0
+2026-06-18,Desk,Furniture,North,6,12000.0,72000.0
+2026-07-05,Laptop,Electronics,East,8,65000.0,520000.0
+2026-07-15,Monitor,Electronics,West,9,18000.0,162000.0
+2026-07-25,Keyboard,Accessories,South,22,1500.0,33000.0
+2026-08-03,Smartphone,Electronics,North,14,25000.0,350000.0
+2026-08-14,Office Chair,Furniture,East,8,8500.0,68000.0
+2026-08-22,Headphones,Accessories,West,16,2500.0,40000.0
+2026-09-12,laptop,Electronics,North,1,1000.0,1000.0
+2026-09-12,Smartphone,Electronics,North,1,1000.0,1000.0
+2026-09-12,Mouse,Electronics,North,1,1000.0,1000.0
+2026-09-12,MOouse,Electronics,North,1,1000.0,1000.0
+2026-09-12,laptop,Electronics,North,1,1000.0,1000.0
+2026-09-12,Laptop,Electronics,North,1,1000.0,1000.0

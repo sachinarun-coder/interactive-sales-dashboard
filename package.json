@@ -1,0 +1,16 @@
+{
+  "name": "frontend-intern-dashboard",
+  "version": "1.0.0",
+  "description": "Interactive Product Sales Dashboard using Streamlit and ReactJS",
+  "scripts": {
+    "start": "streamlit run app.py"
+  },
+  "keywords": [
+    "streamlit",
+    "react",
+    "dashboard",
+    "data-visualization"
+  ],
+  "author": "Your Name",
+  "license": "MIT"
+}
