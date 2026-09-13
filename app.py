@@ -1,16 +1,12 @@
 import json
 from pathlib import Path
 from datetime import date
-
 import pandas as pd
 import streamlit as st
 import streamlit.components.v1 as components
-
-
 # -------------------------------------------------
 # PAGE SETTINGS
 # -------------------------------------------------
-
 st.set_page_config(
     page_title="Product Sales Dashboard",
     page_icon="📊",
